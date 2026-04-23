@@ -1,10 +1,10 @@
 ﻿{
     "version":  "0.1.0",
     "notes":  "Overlord Desktop Beta 0.1.0",
-    "pub_date":  "2026-04-23T15:01:03.0718029Z",
+    "pub_date":  "2026-04-23T15:17:55.2895637Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSzJEMERmaGlRZWo5YmpYNFBwUWRZaTFjeXVyN2FmellRMVZRMkRFR09DV3BDRHo4L211ZW9UOWNmdHJEaTZCUzhKKzhwVVpsVXVQYlFDUWNUYWk0RzFaalVZanZtbWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTU2NDYxCWZpbGU6T3ZlcmxvcmQgRGVza3RvcCBCZXRhXzAuMS4wX3g2NC1zZXR1cC5leGUKamw0K0tVNUxUT2drVlNzQWJxd0RpQ2FVbXZ2OUJqdDd4K28xZ000bURjT0s3Q0kxeGwyODhBZUozMFVLREViZ2hvVlJ2MWdXRXVPSHlLZnoyN3BXQlE9PQo=",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSzJEMERmaGlRZXNhVVlBdnZTYklheXJWOWx1T1RrTUVscGJMNCtoejdidlZhRzB6S0FHeFEyZFhaNTIyakZ4WHk2WDBGcFc5Wmt2U09FN0E5K2Y1R3IyMnZHRWpjcGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTU3NDc0CWZpbGU6T3ZlcmxvcmQgRGVza3RvcCBCZXRhXzAuMS4wX3g2NC1zZXR1cC5leGUKbUtwaUcxY1lyWFdVeU5henQ5Q0hoc256K3BqNXh5TTR4dlg1Mkh5R1c0ZUU4M01XdHBCTjVNZmsrOWdLTHJEK1lqNUc4QzFacmdvU0xhWFdpZTUyQWc9PQo=",
                                              "url":  "https://andong77.github.io/overlord-updates/beta/Overlord%20Desktop%20Beta_0.1.0_x64-setup.exe"
                                          }
                   }
